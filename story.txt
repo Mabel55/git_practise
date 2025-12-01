@@ -1,2 +1,3 @@
 Hello Git
 This is the second chapter.
+"I'm editting inside Vs Code"
